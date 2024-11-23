@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-color: #8d99ae;
+  }
+  .blue {
+    border: solid;
+    background-color: #80C4E9;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 1px;
+    color: white;
+    transition-duration: 0.4s;
+    top: 300px;
+    left: 50px;
+  }
+  .blue:hover {
+    background-color: #003566;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    transition-duration: 0.4s;
+    top: 300px;
+    left: 50px;
+  }
+  .pink {
+    background-color: #F05A7E;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 1px;
+    color: white;
+    transition-duration: 0.4s;
+    top: 300px;
+    left: 130px;
+  }
+  .pink:hover {
+    background-color: #fc0563;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    transition-duration: 0.4s;
+    top: 300px;
+    left: 130px;
+  }
+.brown {
+    background-color: #654520;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    transition-duration: 0.4s;
+    top: 300px;
+    left: 210px;
+  }
+  .brown:hover {
+    background-color: #99582a;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+... (39 lines left)
